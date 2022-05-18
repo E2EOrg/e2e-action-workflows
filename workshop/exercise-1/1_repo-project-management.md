@@ -44,6 +44,12 @@ jobs:
           github-token: ${{ secrets.ACTIONS_TOKEN }}
 ```
 
+### Enable Actions in the repo.
+ Before we go ahead and create an issue, lets enable actions by:
+ 1. Go to your forked repository
+ 2. Click on Actions tab
+ 3. Click on `I understand my workflows, go ahead and enable them`
+
 ### Create a new issue.
 (In case issues tab is not present in your repo. Enable issues from settings)
 1. Go to issues tab in your forked repo.
